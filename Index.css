@@ -1,0 +1,41 @@
+
+nav img{
+    width: 80px;
+}
+nav .text{
+    color: black;
+}
+#principal img{
+    max-height: 600vh;
+    object-fit: cover;
+}
+#principal{
+    position: relative;
+   
+}
+
+#footer{
+    margin-top: 30px;
+    background-color: gray;
+}
+#footer a{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    width: 130%;
+    border: 0px;
+}
+.card2{
+    width: 60%;
+  margin-left: 170px;
+}
+.card3{
+    width: 60%;
+    margin-left: 50px;
+
+}
+p{
+    text-align: center;
+
+}
